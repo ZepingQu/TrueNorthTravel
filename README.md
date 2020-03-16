@@ -1,6 +1,6 @@
 # TrueNorthTravel
 
-Collaborate with Cami Guo and Zeping Qu  
+Collaborate with Cami Guo and Luya Wang  
 
 Deployed website: https://thetruenorth.herokuapp.com  
 
